@@ -31,6 +31,6 @@ repositories {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native
+    compile 'com.facebook.react:react-native:+'
     compile 'me.leolin:ShortcutBadger:1.1.18@aar'
 }
