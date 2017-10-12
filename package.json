@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-badger-android",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A react native wrapper for leolin310148/ShortcutBadger.",
   "main": "index.js",
   "keywords": [
