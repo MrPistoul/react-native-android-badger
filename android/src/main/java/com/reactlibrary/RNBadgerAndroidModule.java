@@ -21,7 +21,7 @@ public class RNBadgerAndroidModule extends ReactContextBaseJavaModule {
   }
   @ReactMethod
   public void setBadge(int badgeCount) {
-    ShortcutBadger.applyCount(reactContext, badgeCount)
+    ShortcutBadger.applyCount(reactContext, badgeCount);
   }
   @ReactMethod
   public void removeBadge() {
