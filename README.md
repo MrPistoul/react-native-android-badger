@@ -32,7 +32,7 @@
 ```javascript
 import RNBadgerAndroid from 'react-native-badger-android';
 
-RNAndroidBadger.setBadge(int)
-RNAndroidBadger.removeBadge()
+RNBadgerAndroid.setBadge(int) 
+RNBadgerAndroid.removeBadge() 
 
 enjoy yourself!
